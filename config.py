@@ -5,9 +5,9 @@ payments_channel = -1002206027044  # Channel or Group ID
 
 
 host_db = "193.203.184.95"
-database = "u872052480_abir"  # Database Name
-user_db = "u872052480_abir"  # Database Username
-passwd_db = "Abir@2024"  # Database Password
+database = "u872052480_debojit"  # Database Name
+user_db = "u872052480_debojit"  # Database Username
+passwd_db = "Debojit@2024"  # Database Password
 port = 3306
 
 python_version = "python"
