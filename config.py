@@ -1,5 +1,5 @@
 admins = [5117837885]  # Admins UserIDs
-token = "6999582063:AAGa7AhJDIVtjXYWqlFZskBQSWO9cnAtiJg"  # Token Bot
+token = "7152401537:AAGmMiopf-N0HBiTdJLNYOPEa_pHoD0lWHI"  # Token Bot
 sessions_channel = -1002189187937  # Channel or Group ID
 payments_channel = -1002206027044  # Channel or Group ID
 
